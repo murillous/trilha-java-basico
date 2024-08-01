@@ -1,3 +1,4 @@
+package edu.murilo.anatomiadasclasses;
 public class MinhaClasse{
 // ! variaveis em maisculo são constantes e possuem a palavra "final"
 // ! antes da declaração
